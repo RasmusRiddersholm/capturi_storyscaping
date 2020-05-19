@@ -1,0 +1,17 @@
+/*!
+ * Theme Name: 		OceanWP Child
+ * Theme URI: 		https://oceanwp.org/
+ * Description: 	OceanWP wordpress child theme
+ * Author: 			Rasmus Riddersholm
+ * Author URI: 		https://oceanwp.org/
+ * Template:        oceanwp
+ * Version:         1.0
+*/
+
+@media screen and (min-width: 750px){
+
+#my-container-1 .elementor-row{
+    flex-direction: row-reverse !important;
+}
+
+}
